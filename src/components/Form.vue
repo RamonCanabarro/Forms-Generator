@@ -68,6 +68,7 @@
   </div>
   <div class="footer-box">
     <p>Ramon S Canabarro - 2020</p>
+    <a href="https://cli.vuejs.org/" target="_blank">Vue Docs</a>
   </div>
 </template>
 
