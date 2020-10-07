@@ -1,24 +1,16 @@
-# create-forms
+# Formulários
 
-## Project setup
+## Primeiramente depois de clonar o projeto é preciso instalar as dependencias da aplicação, tentei utilizar o mínimo de bibliotecas possíveis.
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm i
 ```
 
-### Compiles and minifies for production
+## E para ver a aplicação funcionando bastar dar o comando:
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Estara rodando na porta:
+```
+http://localhost:8080/
+```
